@@ -1,0 +1,3 @@
+﻿  Page812Problem7.cpp
+c:\users\anicet\source\repos\page812problem7\page812problem7\page812problem7.cpp(35): warning C4715: 'DivSales::getQSales': not all control paths return a value
+  Page812Problem7.vcxproj -> C:\Users\Anicet\source\repos\Page812Problem7\Debug\Page812Problem7.exe
